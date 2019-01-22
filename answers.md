@@ -63,4 +63,15 @@ Your branch is up to date with 'origin/master'.
 nothing to commit, working tree clean
 
 Answer 10:
+The changes made online were not reflected in the local copy.
+
+Answer 11:
+git said that it failed to push because the remote version contained work that was not on the local copy.
+
+Answer 12:
+Once i issued the git pull command the content on my local file reflected the changes I made online.
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
+
 
